@@ -1,0 +1,5 @@
+# Exclude Jupyter checkpoints
+.ipynb_checkpoints
+
+# Exclude Glove vector cache
+.vector_cache
